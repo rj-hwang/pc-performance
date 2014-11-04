@@ -9,3 +9,7 @@ A8-5600K(3.6G 4核4线程 100W), AMD Radeon HD 7560D 集显, 机械硬盘7200rpm
 3. AthlonII X4 631_F1A75-M_4G_500G_GF210
 米姑丈家的 PC buy in 2011
 Athlon(速龙)II X4 631(2.6G 4核4线程 100W), GF210独显, 机械硬盘7200rpm
+
+4. AthlonII X4 640_M4A88TD-M_8G_SSD128G
+芳村宿舍的 PC buy in 2011
+Athlon(速龙)II X4 640(3.0G 4核4线程 95W), AMD Radeon HD 4250 集显, 固态硬盘SP920 128G
