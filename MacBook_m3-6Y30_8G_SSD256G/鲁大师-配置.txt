@@ -1,0 +1,13 @@
+------鲁大师 Build V5.13.16.1080------
+
+电脑型号: 苹果 MacBook9,1 笔记本电脑
+操作系统: Windows 10 Enterprise 64位
+
+  处理器: 英特尔 Core m3-6Y30 @ 0.90GHz 双核
+    主板: 苹果 Mac-9AE82516C7C6B903
+    内存: 8 GB
+  主硬盘: 苹果 SSD AP0256J ( 31 GB )
+    显卡: 英特尔 AVStream Camera 2500 ( 128 MB / 苹果 )
+  显示器: 苹果 APPA027 Color LCD ( 12 英寸  )
+    声卡: 英特尔 英特尔 显示器音频 @ 英特尔 High Definition Audio 控制器
+    网卡: 博通 Broadcom 802.11ac Network Adapter / 苹果
